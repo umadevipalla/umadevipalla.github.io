@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Siemens Technology",
+      "startDate": "Aug, 2021",
+      "endDate": "Present",
+      "experiences": ["Working on Complex UI screens", "Reduced load times by 50%"],
+      "imageSrc": "history/siemens.png"
+    },
+    {
+      "role": "Software Engineer I",
+      "organisation": "Harman International",
+      "startDate": "Jan, 2020",
+      "endDate": "Aug, 2021",
+      "experiences": ["Worked on Windows and Linux", "Designed the control panel"],
+      "imageSrc": "history/harman.png"
+    },
+    {
+      "role": "Software Engineer",
+      "organisation": "Capgemini",
+      "startDate": "Dec, 2016",
+      "endDate": "Jan, 2020",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/capgemini.png"
+    }
+  ]

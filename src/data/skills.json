@@ -1,0 +1,50 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/typescript.png"
+    },
+    {
+      "title": "ElectronJs",
+      "imageSrc": "skills/electronjs.png"
+    },
+    {
+      "title": "ExpressJs",
+      "imageSrc": "skills/expressjs.png"
+    },
+    {
+      "title": "NextJs",
+      "imageSrc": "skills/nextjs.png"
+    },
+    {
+      "title": "GraphQL",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
